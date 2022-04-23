@@ -1,13 +1,13 @@
 # README
 Rails7をDockerで起動する雛形
 
-* Ruby version
+## Ruby version
 3.1.0
 
-* Database
+## Database
 MySQL
 
-* Getting Started
+## Getting Started
 ```
 dockerのappコンテナでDB作成コマンドを実行
 # bundle exec rails db:create
